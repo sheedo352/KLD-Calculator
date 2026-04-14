@@ -1,2 +1,2 @@
 # KLD-Calculator
-A simple calculator that 
+ICDIfy is a simple Java Swing calculator that offers a clean and responsive interface for performing basic arithmetic operations, including addition, subtraction, multiplication, division, and percentage, along with extra functions like square, square root, and reciprocal. It processes user input step-by-step with built-in error handling for invalid expressions and division by zero. The calculator also features a history function that stores up to 10 recent calculations, allowing users to easily review previous results, showcasing fundamental concepts of GUI design and event-driven programming in Java.
